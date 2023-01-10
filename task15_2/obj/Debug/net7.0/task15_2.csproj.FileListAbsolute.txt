@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\bin\Debug\net7.0\task15_2.exe
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\bin\Debug\net7.0\task15_2.deps.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\bin\Debug\net7.0\task15_2.runtimeconfig.json
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\bin\Debug\net7.0\task15_2.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\bin\Debug\net7.0\task15_2.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\task15_2.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\task15_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\task15_2.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\task15_2.AssemblyInfo.cs
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\task15_2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\task15_2.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\refint\task15_2.dll
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\task15_2.pdb
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\task15_2.genruntimeconfig.cache
+C:\Users\Александр\Desktop\прога марога\C#\семинары\2_seminar_domashka\task15_2\obj\Debug\net7.0\ref\task15_2.dll
